@@ -1,0 +1,51 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.jumbotron {
+    background-image: url("mma-background.jpg");
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.jumbotron h1 {
+    font-size: 4rem;
+}
+
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.2rem;
+    color: #fff;
+}
+
+.section-heading {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.section-heading h2 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #343a40;
+}
+
+.section-content {
+    padding: 3rem;
+}
+
+.section-content p {
+    font-size: 1.2rem;
+    color: #343a40;
+}
