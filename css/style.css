@@ -1,21 +1,4 @@
-body {
-    background-color: #f8f9fa;
-}
-
-.jumbotron {
-    background-image: url("mma-background.jpg");
-    background-size: cover;
-    height: 500px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #fff;
-}
-
-.jumbotron h1 {
-    font-size: 4rem;
-}
-
+/* Navbar */
 .navbar {
     background-color: #343a40;
 }
@@ -30,6 +13,22 @@ body {
     color: #fff;
 }
 
+/* Jumbotron */
+.jumbotron {
+    background-image: url("mma-background.jpg");
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.jumbotron h1 {
+    font-size: 4rem;
+}
+
+/* Section Heading */
 .section-heading {
     text-align: center;
     margin-bottom: 3rem;
@@ -41,6 +40,7 @@ body {
     color: #343a40;
 }
 
+/* Section Content */
 .section-content {
     padding: 3rem;
 }
@@ -48,4 +48,23 @@ body {
 .section-content p {
     font-size: 1.2rem;
     color: #343a40;
+}
+
+/* Card Styles */
+.card {
+    margin-bottom: 2rem;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.card-text {
+    font-size: 1.2rem;
 }
