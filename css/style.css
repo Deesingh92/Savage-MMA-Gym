@@ -1,11 +1,12 @@
 /* Navbar */
 .navbar {
-    background-color: #343a40;
+    background-color: #091e34;
 }
 
 .navbar-brand {
+    font-family: 'Rubik Wet Paint', cursive;
     font-size: 1.5rem;
-    color: #fff;
+    color: rgb(182, 1, 1)
 }
 
 .navbar-nav .nav-link {
@@ -21,7 +22,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: rgb(204, 0, 0);
+
 }
 
 .jumbotron h1 {
