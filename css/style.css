@@ -1,33 +1,35 @@
 /* Navbar */
 .navbar {
     background-color: #091e34;
+
 }
 
 .navbar-brand {
     font-family: 'Rubik Wet Paint', cursive;
-    font-size: 1.5rem;
+    font-size: 30px;
     color: rgb(182, 1, 1)
 }
 
 .navbar-nav .nav-link {
-    font-size: 1.2rem;
-    color: #fff;
+    font-size: 20px;
+    color: rgba(230, 230, 230, 0.956);
 }
 
 /* Jumbotron */
 .jumbotron {
-    background-image: url("mma-background.jpg");
+    background: url("../assets/images/mma-background.jpg") no-repeat center center fixed;
     background-size: cover;
     height: 500px;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    color: rgb(204, 0, 0);
+    color: rgba(230, 230, 230, 0.956);
+    text-align: center;
 
 }
 
 .jumbotron h1 {
-    font-size: 4rem;
+    font-size: 100px;
+    font-family: 'Roboto Slab', serif;
+    
 }
 
 /* Section Heading */
@@ -37,36 +39,37 @@
 }
 
 .section-heading h2 {
-    font-size: 3rem;
+    font-size: 40px;
     font-weight: bold;
     color: #343a40;
+    font-family: 'Roboto Slab', serif;
 }
 
 /* Section Content */
 .section-content {
-    padding: 3rem;
+    padding: 20px;
 }
 
 .section-content p {
-    font-size: 1.2rem;
+    font-size: 20px;
     color: #343a40;
 }
 
 /* Card Styles */
 .card {
-    margin-bottom: 2rem;
+    margin-bottom: 100px;
 }
 
 .card-img-top {
-    height: 200px;
+    height: 300px;
     object-fit: cover;
 }
 
 .card-title {
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 20px;
 }
 
 .card-text {
-    font-size: 1.2rem;
+    font-size: 15px;
 }
