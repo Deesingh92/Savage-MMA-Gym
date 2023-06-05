@@ -11,7 +11,7 @@ a:hover {
 .navbar-brand {
     font-family: 'Rubik Wet Paint', cursive;
     font-size: 30px;
-    color: rgb(182, 1, 1)
+    color: rgb(182, 1, 1);
 }
 
 .navbar-nav .nav-link {
@@ -83,6 +83,7 @@ a:hover {
 
 .team-section {
     margin-left: 100px;
+    margin-right: 100px
 }
 
 .team-section h2 {
@@ -94,17 +95,35 @@ a:hover {
     height: 250px;
     width: 200px;
     margin-bottom: 30px;
+    margin-left: 150px;
 
 }
+
 
 .bjj-coach {
     height: 250px;
     width: 200px;
     margin-bottom: 30px;
+    margin-left: 150px;
 }
 
 .freestyle-coach {
     height: 250px;
     width: 200px;
     margin-bottom: 30px;
+    margin-left: 150px;
 }
+
+.muaythai-coach {
+
+    margin-bottom: 30px;
+    margin-left: 150px;
+}
+
+.team-section p {
+    background-color: rgb(182, 1, 1);
+    color: #fff;
+    padding: 10px 20px;
+}
+
+
