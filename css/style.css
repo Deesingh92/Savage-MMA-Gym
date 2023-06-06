@@ -1,3 +1,8 @@
+/* Back Ground */
+body {
+    background-color: #F2E6D8;
+}
+
 /* Navbar */
 .navbar {
     background-color: #000000;
@@ -5,18 +10,18 @@
 }
 
 a:hover {
-    color: white
+    color: #F2E6D8;
 }
 
 .navbar-brand {
     font-family: 'Rubik Wet Paint', cursive;
     font-size: 30px;
-    color: rgb(182, 1, 1);
+    color: #A93939;
 }
 
 .navbar-nav .nav-link {
     font-size: 20px;
-    color: rgba(230, 230, 230, 0.956);
+    color: #ffffff;
 }
 
 /* Jumbotron */
@@ -26,7 +31,7 @@ a:hover {
     background-size: contain;
     height: 700px;
     display: flex;
-    color: rgba(230, 230, 230, 0.956);
+    color: #F2E6D8;
     text-align: center;
 
 }
@@ -50,14 +55,15 @@ a:hover {
     font-family: 'Roboto Slab', serif;
 }
 
-/* Section Content */
-.section-content {
+/* Classes Content */
+.classes-content {
     padding: 20px;
 }
 
-.section-content p {
+.classes-content p {
     font-size: 20px;
-    color: #343a40;
+    color: #ffffff;
+    background-color: #A93939;
 }
 
 /* Card Styles */
@@ -79,6 +85,10 @@ a:hover {
     font-size: 15px;
 }
 
+.card-body {
+    background-color: #A93939;
+}
+
 /* Team Section */
 
 .team-section {
@@ -87,13 +97,13 @@ a:hover {
 }
 
 .team-section h2 {
-    margin-top: 120px;
-    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-bottom: 80px;
 }
 
 .boxing-coach {
-    height: 250px;
-    width: 200px;
+    height: 300px;
+    width: 250px;
     margin-bottom: 30px;
     margin-left: 150px;
 
@@ -101,29 +111,66 @@ a:hover {
 
 
 .bjj-coach {
-    height: 250px;
-    width: 200px;
+    height: 300px;
+    width: 250px;
     margin-bottom: 30px;
     margin-left: 150px;
 }
 
 .freestyle-coach {
-    height: 250px;
-    width: 200px;
+    height: 300px;
+    width: 250px;
     margin-bottom: 30px;
     margin-left: 150px;
 }
 
 .muaythai-coach {
-
+    height: 300px;
+    width: 250px;
     margin-bottom: 30px;
     margin-left: 150px;
 }
 
 .team-section p {
-    background-color: rgb(182, 1, 1);
+    background-color: #A93939;
     color: #fff;
     padding: 10px 20px;
+    margin-bottom: 100px;
 }
 
+/* Footer */
 
+.footer {
+    background-color: black;
+    color: #F2E6D8;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer a {
+    color: #A93939;
+    text-decoration: none;
+  }
+  
+  .footer .social-links {
+    margin-top: 10px;
+  }
+  
+  .footer .social-links a {
+    display: inline-block;
+    margin: 0 5px;
+    width: 30px;
+    height: 30px;
+    background-color: #A93939;
+    border-radius: 50%;
+    color: off-white;
+    font-size: 20px;
+    text-align: center;
+    line-height: 30px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .footer .social-links a:hover {
+    background-color: #F2E6D8;
+    color: #A93939;
+  }
