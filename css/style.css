@@ -52,7 +52,7 @@ a:hover {
     height: 200px;
     border: 1px solid #f1f1f1;
     perspective: 1000px;
-    margin-left: 100px;
+    
 }
 
 .flip-card-inner {
@@ -91,6 +91,10 @@ a:hover {
 
 section.quote-card {
     height: 800px;
+}
+
+.student-woman-quote {
+    margin-top: 300px;
 }
 
 
