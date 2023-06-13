@@ -70,7 +70,12 @@ a:hover {
   button#myBtn {
     background-color: #F2E6D8;
     color: #A93939;
-    size: ; 
+    height: 80px;
+    width: 150px; 
+    font-size: 20px;
+    border: #A93939 1px;
+    border-radius: 50px;
+    margin-top: 200px;
   }
   
   .close {
