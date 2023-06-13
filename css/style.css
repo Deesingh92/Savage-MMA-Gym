@@ -141,11 +141,6 @@ section.quote-card {
     height: 800px;
 }
 
-.student-woman-quote {
-    margin-top: 300px;
-}
-
-
 /* Section Heading */
 .section-heading {
     text-align: center;
@@ -285,7 +280,7 @@ section.quote-card {
     color: #F2E6D8;
     padding: 20px;
     text-align: center;
-    margin-top: 200px;
+    margin-top: 100px;
   }
   
   .footer a {
