@@ -43,6 +43,49 @@ a:hover {
     
 }
 
+/* Modal */
+
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.4); 
+  }
+  
+  .modal-content {
+    background-color: #A93939;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #F2E6D8;
+    width: 80%;
+  }
+
+  button#myBtn {
+    background-color: #F2E6D8;
+    color: #A93939;
+    size: ; 
+  }
+  
+  .close {
+    color: #030303;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #040404;
+    text-decoration: none;
+    cursor: pointer;
+  }
 /* Student Quotes */
 
 
@@ -267,3 +310,4 @@ section.quote-card {
     background-color: #F2E6D8;
     color: #A93939;
   }
+
