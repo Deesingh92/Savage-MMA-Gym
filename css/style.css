@@ -17,6 +17,7 @@ a:hover {
     font-family: 'Rubik Wet Paint', cursive;
     font-size: 30px;
     color: #A93939;
+    letter-spacing: 1px;
 }
 
 .navbar-nav .nav-link {
@@ -104,7 +105,7 @@ a:hover {
 .flip-card {
     background-color: transparent;
     width: 300px;
-    height: 200px;
+    height: 300px;
     border: 1px solid #f1f1f1;
     perspective: 1000px;
     
@@ -145,7 +146,7 @@ a:hover {
   }
 
 section.quote-card {
-    height: 750px;
+    height: 550px;
 }
 
 .student-adult {
@@ -225,6 +226,7 @@ section.quote-card {
     margin-bottom: 100px;
     font-family: 'PT Sans', sans-serif;
     font-size: 20px;
+    width: fit-content;
 }
 
 .team-content h2 {
@@ -271,6 +273,9 @@ section.quote-card {
 
 
 /* About Page */
+.about-content {
+    margin-top: 100px;
+}
 
 .about-content h2 {
     font-family: 'Roboto Slab', serif;
@@ -338,3 +343,14 @@ section.quote-card {
     color: #A93939;
   }
 
+  /* Media Quiries */
+
+  @media (max-width: 770px) {
+    section.quote-card {
+        height: 1100px;
+    }
+  }
+
+    
+
+  
