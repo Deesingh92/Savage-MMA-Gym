@@ -21,7 +21,14 @@ a:hover {
 
 .navbar-nav .nav-link {
     font-size: 20px;
+    font-weight: 200;
     color: #ffffff;
+}
+
+
+.nav-link:focus, .nav-link:hover {
+    text-decoration: underline;
+    text-decoration-color: #A93939;
 }
 
 /* Jumbotron */
@@ -72,7 +79,7 @@ a:hover {
     color: #A93939;
     height: 80px;
     width: 150px; 
-    font-size: 20px;
+    font-size: 30px;
     border: #A93939 1px;
     border-radius: 50px;
     margin-top: 200px;
@@ -138,12 +145,21 @@ a:hover {
   }
 
 section.quote-card {
-    height: 600px;
-    padding-top: 150px;
-    padding-left: 80px;
+    height: 750px;
 }
 
+.student-adult {
+    height: 300px;
+    width: 300px;
+    max-width: 100%;
+    display: flex;
+}
 
+.quote-card h2 {
+    margin-bottom: 100px;
+    margin-left: 50px;
+    font-family: 'Roboto Slab', serif;
+}
 
 /* Section Heading */
 .section-heading {
@@ -156,6 +172,8 @@ section.quote-card {
     font-weight: bold;
     color: #343a40;
     font-family: 'Roboto Slab', serif;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 /* Classes Content */
@@ -167,6 +185,7 @@ section.quote-card {
     font-size: 20px;
     color: #ffffff;
     background-color: #A93939;
+    font-family: 'PT Sans', sans-serif;
 }
 
 /* Card Styles */
@@ -204,6 +223,8 @@ section.quote-card {
     color: #fff;
     padding: 10px 20px;
     margin-bottom: 100px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
 }
 
 .team-content h2 {
@@ -213,33 +234,37 @@ section.quote-card {
     font-weight: bold;
     color: #343a40;
     margin-top: 100px;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
 }
 
 
 .boxing-coach {
     height: auto;
-    width: 100%;
+    width: 300px;
+    max-width: 100%;
     margin-bottom: 30px;
 }
 
 
 .bjj-coach {
     height: auto;
-    width: 100%;
+    width: 300px;
+    max-width: 100%;
     margin-bottom: 30px;
 }
 
 .freestyle-coach {
     height: auto;
-    width: 100%;
+    width: 300px;
+    max-width: 100%;
     margin-bottom: 30px;
     
 }
 
 .muaythai-coach {
     height: auto;
-    width: 100%;
+    width: 300px;
+    max-width: 100%;
     margin-bottom: 30px;
  
 }
@@ -253,8 +278,8 @@ section.quote-card {
     font-size: 40px;
     font-weight: bold;
     color: #343a40;
-    margin-bottom: 30px;
-    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-top: 100px;
 }
 
 .about-content p {
@@ -262,6 +287,8 @@ section.quote-card {
     color: #fff;
     padding: 10px 20px;
     margin-bottom: 50px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
 }
 
 .about-content img {
@@ -299,7 +326,7 @@ section.quote-card {
     height: 30px;
     background-color: #A93939;
     border-radius: 50%;
-    color: off-white;
+    color: #F2E6D8;
     font-size: 20px;
     text-align: center;
     line-height: 30px;
