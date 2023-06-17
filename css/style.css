@@ -138,8 +138,12 @@ a:hover {
   }
 
 section.quote-card {
-    height: 800px;
+    height: 600px;
+    padding-top: 150px;
+    padding-left: 80px;
 }
+
+
 
 /* Section Heading */
 .section-heading {
@@ -214,33 +218,30 @@ section.quote-card {
 
 
 .boxing-coach {
-    height: 300px;
-    width: 250px;
+    height: auto;
+    width: 100%;
     margin-bottom: 30px;
-    margin-left: 150px;
-
 }
 
 
 .bjj-coach {
-    height: 300px;
-    width: 250px;
+    height: auto;
+    width: 100%;
     margin-bottom: 30px;
-    margin-left: 150px;
 }
 
 .freestyle-coach {
-    height: 300px;
-    width: 250px;
+    height: auto;
+    width: 100%;
     margin-bottom: 30px;
-    margin-left: 150px;
+    
 }
 
 .muaythai-coach {
-    height: 300px;
-    width: 250px;
+    height: auto;
+    width: 100%;
     margin-bottom: 30px;
-    margin-left: 150px;
+ 
 }
 
 
@@ -264,10 +265,9 @@ section.quote-card {
 }
 
 .about-content img {
-    height: 400px;
-    width: 800px;
+    height: auto;
+    width: 100%;
     margin-bottom: 80px;
-    margin-left: 150px;
 }
 
 
