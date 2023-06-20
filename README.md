@@ -1,39 +1,373 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Rock Bristol School of Yoga
 
-Welcome,
+# A responsive website of a Yoga Studio to show what they offer to the students, share their approach and increase the number of students subcriptions, and visitors 
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Code Institute - Milestone Project 1 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+### HTML/CSS Essentials - Users Sentric, Static Front-End Website
 
-## Codeanywhere Reminders
+### By Manuel Perez
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+[View Repository in GitHub Pages] (https://github.com/Manuperezro/MSP1-Code-Institute-Yoga-School)
 
-`python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+[view Website Link ] (https://manuperezro.github.io/MSP1-Code-Institute-Yoga-School/)
+## The Why
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+Made the studio more accessible to students giving them the possibility to see the live classes timetable, and get to know what the studio offers.
 
-`http_server`
+Share the approach of the yoga studio, and information about prices, workshops and yoga related articles.
+ 
+## The Bussines Goal
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
++ Increase the number of new students 
++ Increase sales on Introductory offers
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## (UX) User Experience: 
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+Users will be able to find relevant information in the website to email the studio, to book classes online, see any changes in the timetable, get to know the approach of the teachers and read descriptions of the differents classes taught in the studio and be able to decide wich class is best for them.
 
-To log into the Heroku toolbelt CLI:
+User will access to contact information and they will be able to see the location of the studio.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- ### User Stories
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+  - #### First time Users Goals:
+     - To be captivated by the content.
+     - To get to know about Introductory offer.
+     - To Understand the approach and the differents yoga  classes in the studio.
+     - To know the location of the studio.
+  - #### Returning Users Goals:
+     - To remember how to find relevant information 
+     (Remember how to navigate).
+     - Find the best and easy way to contact the studio.
+     - Find relevant links.
+  - #### Frequent Users Goals:
+     - To see if there is any new offer.
+     - Find updates in the timetable.
+     - Find new workshops.
+     - Find when there is a cover teacher running a class.
 
----
+## Design:
 
-Happy coding!
+The Desing of the website is made to invite visitors to come, to get to know the studio, the studio yoga approach and yoga styles, and to book classes and offers.
+So I tried to do a simple web with lights colors, wich is easy to navigate through and pleasant at the same time, also Include some "motivational" pictures of practicioners doing some fancy yoga poses to show what they will be capable to learn if they decided to join and practice yoga in the studio.
+
+### Design Brief:
+
++ Colour:
+
+The main colours used in the web are: 
+
+- light grey: considered the colour of architecture, commerce and theory. Some psychologies studies agreed the grey brings; neutrality, wisdom, intelligence, futuristic, resignation, stable, dignity, and compromise.
+
+- Orange :  Orange is often described as an energetic colour. It may call to mind feelings of enthusiasm and excitement. Because orange is a high-energy color, many sports teams use orange in their uniforms, mascots, and branding.
+
+Also Orange is an attention getting color, highly stimulating and friendly. 
+
+Characteristic that suit perfectly with the needs and goals of the website.
+
+The color orange is often associated with spiritual practices including meditation and compassion.
+
+- White :  White represents purity or innocence. 
+
+White is bright and can create a sense of space or add highlights. Designers often use the colour white to make rooms seem larger and more spacious, and I tried to transmit the  inner space that
+
+yoga can bring to the students using the colour on the website, and the breathing space. 
+
+
+- Links : The colour of the Links to navigate in the ahimsa.html are blue with the purpose to made easy to users to identify that they are external links.
+
++ Typography:
+
+- Ubuntu = H2 and H3 and H4
+
+- Lato = Paragraphs
+
++ Images:
+
+- Background Image/ Hero Image/ home page: I used a yoga bright picture of a yoga studio class with the teacher and some students practicing yoga and smiling to each other. to invite New      students to try the experience, and transmit that studio can be a peaceful place to disconnet.  
+
+- Sections images: In the other sections I used images of yoga practicioners doing some fancy poses to try to create some motivation in  users, to invited them to start or keep practicing yoga.
+
+- Ahimsa image: I choose a picture where a practicioner is in a meditation pose, to transmit the spiritual part of yoga.
+
+## Wireframes:
+
+The Basic structure of Rock Bristol Yoga School was skectched using [balsamiq](https://balsamiq.com/).
+
+Here some images of the proccess( to see full wireframe click PDF) : 
+
+-  PC Mac screen: ![wireframe](assets/images/readme.img/wireframe1.JPG "PC wireframe")
+
+- Tablet screen: ![wireframe](assets/images/readme.img/wireframe2.JPG "PC wireframe")
+
+- Mobile screen: ![wireframe](assets/images/readme.img/wireframe3.JPG "PC wireframe")
+
+- PDF:  
+  [Wireframe PDF](https://drive.google.com/file/d/1Ma2lZGsFX_GElv23_iktQVi_kj2reLCx/view?usp=sharing)
+
+## Features
+
+ - #### Existing Features:
+     
+   + Navigation bar there are links to the “Home”, “classes” "workshops" and  “Ahimsa” page.
+
+   + Buttons to redirect to a future app to be able to book and made online payments.
+
+   + iframe to show the location in google maps
+
+   + Form : Icluded in the footer section, the users can always see the oppornutity to register.
+
+   #### (future features)
+
+    "buttons to link with and app to do online payments and online booking" (mindbody app)
+
+## Technologies: 
+
+### Languages used: 
+
+- [HTML](https://en.wikipedia.org/wiki/HTML5)
+
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+
+### Also I used: 
+
+- [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)
+
+  From Bootrap I used: grid system, the nav, the buttoms, modals and part of the forms layout. 
+  Everything has been modify to the project requirements and styled with CSS.
+  
+
+- [Google Fonts](https://en.wikipedia.org/wiki/Google_Fonts)
+
+- [Font awesome](https://fontawesome.com/v4.7/icons/)
+
+- [Balsamiq](https://balsamiq.com/)
+
+- [Pexels](https://www.pexels.com/)
+
+## Testing: 
+
+### Testing results:
+
+- [W3C Markup Validation Service](https://validator.w3.org/)
+
+ + To validate HTML and CSS code.
+
+ 
+ Index.html :
+
+
+-  Errors: ![Errors](assets/images/readme.img/index.error..JPG "Index-errors")
+
+
+ Ahimsa.html :
+
+
+-  Errors: ![Errors](assets/images/readme.img/ahimsa.error.JPG "Ahimsa-errors")
+
+
+
+
+Validators Results :
+
+Index.html 
+
+![Validator](assets/images/readme.img/indexhtmlValidator.JPG "Home")
+
+classes.html 
+
+![Validator](assets/images/readme.img/classes.htemlw3vaidator1.JPG "classes")
+
+Workshops.html 
+
+![Validator](assets/images/readme.img/workshopsw3validator.1.JPG "workshops")
+
+Ahimsa.html 
+
+![Validator](assets/images/readme.img/Ahimsa.html-validator-7-11-21.JPG "Ahimsa")
+
+style.css 
+
+![Validator](assets/images/readme.img/cssw3validator1.JPG "CSS")
+
+
+### Lighthouse results:
+
+Index.html : 
+
+![lighthouse results](assets/images/readme.img/lighthouse.index,html.JPG "Home")
+
+Classes.html : 
+
+![lighthouse results](assets/images/readme.img/lighthouse.classes.JPG "Classes")
+
+Ahimsa.html : 
+
+![lighthouse results](assets/images/readme.img/lighthouse.workshops.JPG "Workshops")
+
+Workshop.html : 
+
+![lighthouse results](assets/images/readme.img/lighthouse.ahimsa.JPG "Ahimsa")
+
+### Testing User Stories from User Experience (UX) Section
+
+ #### First Time Visitor Goals: 
+
+  ######  As a First Time Visitor, I want to easily see the studio offers, find when the classes take place (timetable) also the prices and offers:
+     
+     - Upon entering the site, users will see the first a hero image
+     so the users can get an idea on how the studio looks like.
+
+     - Just at the botton it is a call to action offer showing the new members offer. 
+     and a button wich open a modal to Sign Up, 
+     so users can easyly click and sign to the offer.
+     (with futures features they will be able to made payments)
+
+     - After this the Users can find 2 bigs pictures with links, 
+     that guide theM to the sEction of classes and prices, and workshops, 
+     so they can find what the studio offer as a daily basics.
+
+     - Folloing the links there is an introduction of the teachers that works in the studio, 
+     so users know what to expect in the classes before they procced with the booking.
+
+  #####  As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content and find where the studio is located:
+
+    - At the top of each page the is a header with the logo and the navigation menu, 
+    wich mades easy to navigates through the four pages of the site. 
+
+    - At the botton of the header in the Index page, there is a call to action 
+    for first time visitors( new members offer ) 
+    and at the botton of this 2  call to action redirections links,
+     so the users always now where to go and they don't feel trapped 
+     as they reach the bottom of the page.
+
+    - At the bottom of the footer in all pages there is a link to bring back 
+    the users to the top of the page, to the nav menu, 
+    so is easy for the user to move thorugh the website to what is looking for.
+
+    -In the Home page the users can fin a call of action link wich get to the iframe map location
+     at the botton of the page and also to the contact us information.
+
+  ##### As a first time visitor I want to see some stories and reviews from other ussers to get to know the studio. I also Want to find the links to the social media to find more information about the studio and ussers thoughts and reviews and be able to determine how trasted and known the studio is:
+
+    - After the teaching section the users can read some reviews from others visitors.
+
+    - at the botton of the Visit us here the user can find links to social media, 
+    link to the studio gmail and the iframe google map location at the right side. 
+    
+ #### Returning Visitor Goals: 
+
+  ##### As a returning Visitor, I want to book easyly classes and workshops:
+   
+    - The links for classes/ Prices and workshops are right on the middle in the home page.  
+      This pages two will be the most visited pages for a returning visitor
+
+    - In the classes and workshops pages are buttons with open a modal to be able to register to a future app 
+    (mindbody-online-app), in wich the users will be able to made online bookings and payments.
+
+  ##### As a returning Visitor, I want to fin any new updates in the timetable and workshops section:
+
+    - In the footer at every page the users can find a form to join and received emails with every update.
+
+    - Also Updates in the timetale will be highligh in the timetable.
+
+  ##### As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have:
+
+    - At the bottom in index.html is section with "find Us": and "Contac us:" where users can find 
+    the contact information.
+
+    - In the same section users can find social media links.
+
+ #### Frequent Users Goals:
+
+##### As a Frequent User, I want to be able to book a class easyly:
+
+    - The user would already be comfortable with the website layout and can easily click 
+    the classes link to book in the timetable with a few clicks.
+
+##### As a Frequent User, I want to check to see if there are any new workshops.
+
+    - The user would already be comfortable with the website layout and can easily click the workshop page.
+
+#####  As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the class timetable, website workshops or events.
+
+    - At the bottom of every page their is a footer which content is consistent throughout all pages.
+      in the center of the footer there is a form where the user can "Subscribe to our Newsletter" 
+      and are prompted to Enter their email address.
+      There is a "Join " button just underneath of the input field which is located close to the field 
+      and can easily be distinguished.
+
+## Deployment:
+
+### Inception:
+
+ + this project was created using Code Institute template from GitHub:
+
+ + After the creation of the project, I rename it as : MSP1-Code-Institute-Yoga-School.
+
+ + In order to push this project from GitPod to Github I used a set of git commands on the terminal: 
+  
+  - git status  - Check the status of the repository and see if there were any changes in files 
+
+- git add .  - Add the files that were modified/created, so we can commit it 
+
+- git commit -m "message for commit"  - Commits all the changes
+
+- git push  - Pushes all committed versions to GitHub.
+
+#### Deployment to GitHub Pages:
+
++ The project was deployed to GitHub Pages using the following steps:
+
+- Log in to GitHub and locate GitHub Repository
+
+- At the top of repository click on "Settings"
+
+- Once you are in settings scroll down to "GitHub Pages"
+
+- Under "Source", click the dropdown called "None" and select "Master Branch".
+
+- After the page automatically refresh scroll down again on "GitHub Pages" and I will  see live link to the published site.
+
+
+### Cloning repository:
+
++ Local Clone
+
+- Log in to GitHub and locate GitHub Repository
+
+- At the top of repository click on Code
+
+- From the dropdown menu under HTTPS copy the link
+
+- Now on the IDE create a directory where you want to make the clone
+
+- Type git clone and paste the link that you copy from step 3.
+
+
+### Forking repository:
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps:
+
+- Log in to GitHub and locate the GitHub Repository
+- At the top of the Repository (not top of page) just above the "Settings" Button on - - the menu, locate the "Fork" Button.
+- You should now have a copy of the original repository in your GitHub account.
+
+
+## Credits:
+
+## Aknowledgements:
+
+A huge thank you to my mentor who has been incredibly helpful and approchable throughout this project.
+
+Likewise, to the tutors for helping through to completion on this.
+
+And to the main teacher at the City of Bristol College.
+
+Big Thanks.
+
+
+### Read me based on the Code Institute README sample:
+
+[Readme Sample](https://www.pexels.com/)

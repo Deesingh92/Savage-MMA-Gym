@@ -189,6 +189,10 @@ section.quote-card {
     font-family: 'PT Sans', sans-serif;
 }
 
+#class-times p {
+    font-size: 15px;
+}
+
 /* Card Styles */
 .card {
     margin-bottom: 100px;
@@ -241,7 +245,7 @@ section.quote-card {
 
 
 .boxing-coach {
-    height: auto;
+    max-height: 375px;
     width: 300px;
     max-width: 100%;
     margin-bottom: 30px;
@@ -256,7 +260,7 @@ section.quote-card {
 }
 
 .freestyle-coach {
-    height: auto;
+    max-height: 375px;
     width: 300px;
     max-width: 100%;
     margin-bottom: 30px;
