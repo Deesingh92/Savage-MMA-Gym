@@ -316,7 +316,6 @@ section.quote-card {
     color: #F2E6D8;
     padding: 20px;
     text-align: center;
-    margin-top: 100px;
   }
   
   .footer a {
@@ -346,6 +345,38 @@ section.quote-card {
     background-color: #F2E6D8;
     color: #A93939;
   }
+
+/* Contact Page */
+
+.map {
+    max-height: 500px;
+    height: auto;
+    max-width: 100%;
+}
+
+.contact-section {
+    max-height: 800px;
+    height: 200px;
+    background-color: #A93939;
+   
+}
+
+.contact-section h5 {
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.contact-section p {
+    font-size : 18px;
+    font-family: 'PT Sans', sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+.contact-section i {
+    color: white;
+}
 
   /* Media Quiries */
 
