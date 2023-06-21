@@ -355,8 +355,8 @@ section.quote-card {
 }
 
 .contact-section {
-    max-height: 800px;
-    height: 200px;
+    max-height: 200px;
+    height: auto;
     background-color: #A93939;
    
 }
@@ -372,6 +372,8 @@ section.quote-card {
     font-family: 'PT Sans', sans-serif;
     color: #fff;
     text-align: center;
+    height: 100%;
+   
 }
 
 .contact-section i {
@@ -386,6 +388,11 @@ section.quote-card {
     }
   }
 
-    
+  @media (max-width: 770px) {
+    .contact-section {
+      max-height: 400px;
+      margin-top: 10px;
+    }
+  }    
 
   
