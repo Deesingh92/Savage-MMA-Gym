@@ -29,6 +29,9 @@ a:hover {
 }
 
 
+.navbar-dark .navbar-brand {
+    color: #A93939;
+}
 
 .nav-link:focus, .nav-link:hover {
     text-decoration: underline;
