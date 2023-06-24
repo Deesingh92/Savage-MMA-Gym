@@ -24,7 +24,10 @@ a:hover {
     font-size: 20px;
     font-weight: 200;
     color: #ffffff;
+    background-color: black;
+    padding-left: 10px;
 }
+
 
 
 .nav-link:focus, .nav-link:hover {
