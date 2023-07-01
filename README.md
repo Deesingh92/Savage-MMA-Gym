@@ -181,13 +181,18 @@ classes.html
 
 ![Validator](assets/images/readme.img/classes.htemlw3vaidator1.JPG "classes")
 
-Workshops.html 
+about.html 
 
-![Validator](assets/images/readme.img/workshopsw3validator.1.JPG "workshops")
+![Validator](assets/images/readme.img/workshopsw3validator.1.JPG "about")
 
-Ahimsa.html 
+team.html 
 
-![Validator](assets/images/readme.img/Ahimsa.html-validator-7-11-21.JPG "Ahimsa")
+![Validator](assets/images/readme.img/Ahimsa.html-validator-7-11-21.JPG "Team")
+
+contact.html 
+
+![Validator](assets/images/readme.img/Ahimsa.html-validator-7-11-21.JPG "contact")
+
 
 style.css 
 
@@ -204,11 +209,11 @@ Classes.html :
 
 ![lighthouse results](assets/images/readme.img/lighthouse.classes.JPG "Classes")
 
-Ahimsa.html : 
+About.html : 
 
 ![lighthouse results](assets/images/readme.img/lighthouse.workshops.JPG "Workshops")
 
-Workshop.html : 
+Contact.html : 
 
 ![lighthouse results](assets/images/readme.img/lighthouse.ahimsa.JPG "Ahimsa")
 
@@ -219,36 +224,28 @@ Workshop.html :
   ######  As a First Time Visitor, I want to easily see the studio offers, find when the classes take place (timetable) also the prices and offers:
      
      - Upon entering the site, users will see the first a hero image
-     so the users can get an idea on how the studio looks like.
+     so the users can get an idea of what they are potentially signing up for.
 
-     - Just at the botton it is a call to action offer showing the new members offer. 
-     and a button wich open a modal to Sign Up, 
+     - Within the hero image there is a botton called "Join Now!" a call to action offer showing the new members offer. 
+     and a button which open a modal to Sign Up, 
      so users can easyly click and sign to the offer.
      (with futures features they will be able to made payments)
 
-     - After this the Users can find 2 bigs pictures with links, 
-     that guide theM to the sEction of classes and prices, and workshops, 
-     so they can find what the studio offer as a daily basics.
+     - After this the Users can find 3 images which give 3 different students of different ages and walks of life reviews of the studio, which show that the gym is univesal and open to anyone.
 
-     - Folloing the links there is an introduction of the teachers that works in the studio, 
-     so users know what to expect in the classes before they procced with the booking.
+     - Following the links there is an introduction of the teachers that works in the studio, 
+     so users know what to expect in the classes before they proceed with the booking.
 
   #####  As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content and find where the studio is located:
 
     - At the top of each page the is a header with the logo and the navigation menu, 
-    wich mades easy to navigates through the four pages of the site. 
+    which makes it easy to navigates through the four pages of the site. 
 
-    - At the botton of the header in the Index page, there is a call to action 
-    for first time visitors( new members offer ) 
-    and at the botton of this 2  call to action redirections links,
-     so the users always now where to go and they don't feel trapped 
-     as they reach the bottom of the page.
+    - At the botton of the header in the Index page, there are reviews from students.
 
-    - At the bottom of the footer in all pages there is a link to bring back 
-    the users to the top of the page, to the nav menu, 
-    so is easy for the user to move thorugh the website to what is looking for.
+    - At the bottom of the footer there are links to the social pages of Savage Strike MMA.
 
-    -In the Home page the users can fin a call of action link wich get to the iframe map location
+    -In the Contact page the users can fin a call of action link wich get to the iframe map location
      at the botton of the page and also to the contact us information.
 
   ##### As a first time visitor I want to see some stories and reviews from other ussers to get to know the studio. I also Want to find the links to the social media to find more information about the studio and ussers thoughts and reviews and be able to determine how trasted and known the studio is:
@@ -256,8 +253,7 @@ Workshop.html :
     - After the teaching section the users can read some reviews from others visitors.
 
     - at the botton of the Visit us here the user can find links to social media, 
-    link to the studio gmail and the iframe google map location at the right side. 
-    
+    link to the gym e-mail and the iframe google map location in the center of page, big and clear.
  #### Returning Visitor Goals: 
 
   ##### As a returning Visitor, I want to book easyly classes and workshops:
@@ -270,14 +266,12 @@ Workshop.html :
 
   ##### As a returning Visitor, I want to fin any new updates in the timetable and workshops section:
 
-    - In the footer at every page the users can find a form to join and received emails with every update.
+    - When signing the users recieve a monthly e-mail with every update.
 
-    - Also Updates in the timetale will be highligh in the timetable.
+    - Also Updates in the timetable will be highlighted in the timetable.
 
   ##### As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have:
 
-    - At the bottom in index.html is section with "find Us": and "Contac us:" where users can find 
-    the contact information.
 
     - In the same section users can find social media links.
 
@@ -290,27 +284,25 @@ Workshop.html :
 
 ##### As a Frequent User, I want to check to see if there are any new workshops.
 
-    - The user would already be comfortable with the website layout and can easily click the workshop page.
+    - The user would already be comfortable with the website layout and can easily click the classes page.
 
 #####  As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the class timetable, website workshops or events.
 
-    - At the bottom of every page their is a footer which content is consistent throughout all pages.
-      in the center of the footer there is a form where the user can "Subscribe to our Newsletter" 
-      and are prompted to Enter their email address.
-      There is a "Join " button just underneath of the input field which is located close to the field 
+    
+    -  There is a "Join " button just underneath of the input field which is located close to the field 
       and can easily be distinguished.
 
 ## Deployment:
 
 ### Inception:
 
- + this project was created using Code Institute template from GitHub:
+ + This project was created using Code Institute template from GitHub:
 
  + After the creation of the project, I rename it as : Savage-MMA-Gym.
 
  + In order to push this project from GitPod to Github I used a set of git commands on the terminal: 
   
-  - git status  - Check the status of the repository and see if there were any changes in files 
+ - git status  - Check the status of the repository and see if there were any changes in files 
 
 - git add .  - Add the files that were modified/created, so we can commit it 
 
