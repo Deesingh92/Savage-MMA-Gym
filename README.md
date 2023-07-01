@@ -277,7 +277,7 @@ Contact.html :
 
  #### Frequent Users Goals:
 
-##### As a Frequent User, I want to be able to book a class easyly:
+##### As a Frequent User, I want to be able to book a class easily:
 
     - The user would already be comfortable with the website layout and can easily click 
     the classes link to book in the timetable with a few clicks.
