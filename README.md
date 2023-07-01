@@ -1,22 +1,22 @@
-# Rock Bristol School of Yoga
+# SAVAGE STRIKE MMA FIGHTING GYM 
 
-# A responsive website of a Yoga Studio to show what they offer to the students, share their approach and increase the number of students subcriptions, and visitors 
+# A responsive website of a Savage Strike MMA to show what they offer to the students, share their approach and increase the number of students subcriptions, and visitors 
 
 ## Code Institute - Milestone Project 1 
 
 ### HTML/CSS Essentials - Users Sentric, Static Front-End Website
 
-### By Manuel Perez
+### By Davinder Torna
 
-[View Repository in GitHub Pages] (https://github.com/Manuperezro/MSP1-Code-Institute-Yoga-School)
+[View Repository in GitHub Pages] (https://github.com/Deesingh92/Savage-MMA-Gym)
 
 
 [view Website Link ] (https://manuperezro.github.io/MSP1-Code-Institute-Yoga-School/)
 ## The Why
 
-Made the studio more accessible to students giving them the possibility to see the live classes timetable, and get to know what the studio offers.
+Made the gym more accessible to students giving them the possibility to see the live classes timetable, and get to know what the gym offers.
 
-Share the approach of the yoga studio, and information about prices, workshops and yoga related articles.
+Share the approach of the fighting gym, and information about coaches, workshops and MMA related articles.
  
 ## The Bussines Goal
 
@@ -25,16 +25,16 @@ Share the approach of the yoga studio, and information about prices, workshops a
 
 ## (UX) User Experience: 
 
-Users will be able to find relevant information in the website to email the studio, to book classes online, see any changes in the timetable, get to know the approach of the teachers and read descriptions of the differents classes taught in the studio and be able to decide wich class is best for them.
+Users will be able to find relevant information in the website to email the studio, to book classes online, see any changes in the timetable, get to know the approach of the teachers and read descriptions of the differents classes taught in the gym and be able to decide wich class is best for them.
 
-User will access to contact information and they will be able to see the location of the studio.
+User will access to contact information and they will be able to see the location of the gym.
 
 - ### User Stories
 
   - #### First time Users Goals:
      - To be captivated by the content.
      - To get to know about Introductory offer.
-     - To Understand the approach and the differents yoga  classes in the studio.
+     - To Understand the approach and the different MMA  classes in the gym.
      - To know the location of the studio.
   - #### Returning Users Goals:
      - To remember how to find relevant information 
@@ -49,8 +49,8 @@ User will access to contact information and they will be able to see the locatio
 
 ## Design:
 
-The Desing of the website is made to invite visitors to come, to get to know the studio, the studio yoga approach and yoga styles, and to book classes and offers.
-So I tried to do a simple web with lights colors, wich is easy to navigate through and pleasant at the same time, also Include some "motivational" pictures of practicioners doing some fancy yoga poses to show what they will be capable to learn if they decided to join and practice yoga in the studio.
+The design of the website is made to invite visitors to come, to get to know the gym, the fighting approach and MMA styles, and to book classes and offers.
+So I tried to do a simple web with red and black pallete, which is easy to navigate through and pleasant at the same time, also Include some "motivational" pictures of students doing some sparring to show what they will be capable to learn if they decided to join and practice MMA in the gym.
 
 ### Design Brief:
 
@@ -58,39 +58,41 @@ So I tried to do a simple web with lights colors, wich is easy to navigate throu
 
 The main colours used in the web are: 
 
-- light grey: considered the colour of architecture, commerce and theory. Some psychologies studies agreed the grey brings; neutrality, wisdom, intelligence, futuristic, resignation, stable, dignity, and compromise.
+- Dark Red: Symbolism: Red is often associated with passion, strength, and power, which aligns well with the intense nature of MMA. It represents the energy and determination exhibited by fighters in the ring.
 
-- Orange :  Orange is often described as an energetic colour. It may call to mind feelings of enthusiasm and excitement. Because orange is a high-energy color, many sports teams use orange in their uniforms, mascots, and branding.
+Visual Impact: Dark red is a bold and attention-grabbing color. It can help create a strong visual impact and draw visitors' attention to key elements on the website, such as headlines, buttons, or important information.
 
-Also Orange is an attention getting color, highly stimulating and friendly. 
+Contrast and Legibility: Dark red can provide a striking contrast against lighter colors, making it easier to read text and navigate the website. It can enhance legibility and ensure that important information stands out
 
-Characteristic that suit perfectly with the needs and goals of the website.
+- Black:  Black can be an effective choice, it's essential to consider the overall design, usability, and accessibility of the website. Proper use of white space, typography, and other design elements will ensure that the website remains visually engaging and user-friendly.
 
-The color orange is often associated with spiritual practices including meditation and compassion.
+Elegance and Sophistication: Black is often associated with elegance, sophistication, and power. Using black as a dominant color can give the website a sleek and stylish look, creating a sense of professionalism that aligns with the high-level athletic competition in MMA.
 
-- White :  White represents purity or innocence. 
+- Off-White: Clean and Modern Aesthetic: Off-white is a neutral color that creates a clean and modern look. It provides a sense of simplicity and minimalism, which can be visually appealing and make the website feel more contemporary.
 
-White is bright and can create a sense of space or add highlights. Designers often use the colour white to make rooms seem larger and more spacious, and I tried to transmit the  inner space that
+Focus on Content: Off-white backgrounds can help draw attention to the content on the website, such as images, videos, and written information. The neutral color allows the content to take center stage without distractions, ensuring that visitors can easily engage with the MMA-related information.
 
-yoga can bring to the students using the colour on the website, and the breathing space. 
+Contrast and Readability: Off-white provides a good contrast against darker text, making it easier to read. This is particularly important for websites that contain a lot of textual information or articles related to MMA events, techniques, or fighter profiles.
 
 
-- Links : The colour of the Links to navigate in the ahimsa.html are blue with the purpose to made easy to users to identify that they are external links.
+
+- Links : The colour of the Links to navigate in the index.html are off-white with the purpose to made easy to users to identify that they are external links.
 
 + Typography:
 
-- Ubuntu = H2 and H3 and H4
+- Rubik Wet Paint = Logo
 
-- Lato = Paragraphs
+- Roboto Slab = Section Headings
+
+- PT Sans = Paragraphs
 
 + Images:
 
-- Background Image/ Hero Image/ home page: I used a yoga bright picture of a yoga studio class with the teacher and some students practicing yoga and smiling to each other. to invite New      students to try the experience, and transmit that studio can be a peaceful place to disconnet.  
+- Background Image/ Hero Image/ home page: I used a image of a man posing in a MMA stance using the the same color pallete to match the rest of the website, to provide light and flowing website.
 
-- Sections images: In the other sections I used images of yoga practicioners doing some fancy poses to try to create some motivation in  users, to invited them to start or keep practicing yoga.
+- Sections images: In the other sections I used images of MMA coaches doing some fancy poses to try to create some motivation in  users, to invited them to start or keep practicing MMA.
 
-- Ahimsa image: I choose a picture where a practicioner is in a meditation pose, to transmit the spiritual part of yoga.
-
+- Classes image: I choose a picture where coaches are sparring, to show the hardwork involved in classes at Savage Strike MMA
 ## Wireframes:
 
 The Basic structure of Rock Bristol Yoga School was skectched using [balsamiq](https://balsamiq.com/).
@@ -110,7 +112,7 @@ Here some images of the proccess( to see full wireframe click PDF) :
 
  - #### Existing Features:
      
-   + Navigation bar there are links to the “Home”, “classes” "workshops" and  “Ahimsa” page.
+   + Navigation bar there are links to the “Home”, “classes” "about" and  “contact” page.
 
    + Buttons to redirect to a future app to be able to book and made online payments.
 
