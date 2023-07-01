@@ -39,7 +39,7 @@ a:hover {
 }
 
 .material-symbols-outlined {
-    font-size: 20px;
+    font-size: 40px;
 }
 
 /* Jumbotron */
@@ -118,7 +118,7 @@ a:hover {
     height: 300px;
     border: 1px solid #f1f1f1;
     perspective: 1000px;
-    
+    margin: auto;  
 }
 
 .flip-card-inner {
