@@ -39,7 +39,7 @@ a:hover {
 }
 
 .material-symbols-outlined {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 /* Jumbotron */
@@ -156,15 +156,10 @@ a:hover {
   }
 
 section.quote-card {
-    height: 550px;
+    margin-bottom: 100px;
 }
 
-.student-adult {
-    height: 100%;
-    width: 100%;
-    max-width: 300px;
-    max-height: 300px;
-}
+
 
 .quote-card h2 {
     margin-bottom: 100px;
@@ -172,20 +167,31 @@ section.quote-card {
     font-family: 'Roboto Slab', serif;
 }
 
-.student-child {
-    height: 100%;
-    width: 100%;
-    max-width: 300px;
-    max-height: 300px;
+
+#card-container {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .student-adult {
+        height: 300px;
+        width: 300px;
 }
 
-.student-woman {
-    height: 100%;
-    width: 100%;
-    max-width: 300px;
-    max-height: 300px;
-    position: relative;
+.student-child {
+    height: 300px;
+    width: 300px;
 }
+  
+  .card-student  {
+    display:inline-block;
+    background:#F2E6D8;
+    color:white;
+    margin: 10px;
+    height: 300px;
+    width: 300px;
+  }
 
 /* Section Heading */
 .section-heading {
@@ -341,6 +347,7 @@ section.quote-card {
     color: #F2E6D8;
     padding: 20px;
     text-align: center;
+    margin-top: auto;
   }
   
   .footer a {
@@ -419,3 +426,14 @@ section.quote-card {
       margin-top: 10px;
     }
   }    
+
+  @media screen and (max-width: 900px) {
+    .card-student {
+      display: block;
+      margin: 10px auto;
+    }
+    section.quote-card {
+        height: 1100px;
+    }
+
+  } 

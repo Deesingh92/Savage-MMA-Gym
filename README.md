@@ -12,13 +12,13 @@
 
 
 [view Website Link ] (https://manuperezro.github.io/MSP1-Code-Institute-Yoga-School/)
-## The Why
+## Purpose Of the Website
 
 Made the gym more accessible to students giving them the possibility to see the live classes timetable, and get to know what the gym offers.
 
 Share the approach of the fighting gym, and information about coaches, workshops and MMA related articles.
  
-## The Bussines Goal
+## The Business Goal
 
 + Increase the number of new students 
 + Increase sales on Introductory offers
@@ -306,7 +306,7 @@ Workshop.html :
 
  + this project was created using Code Institute template from GitHub:
 
- + After the creation of the project, I rename it as : MSP1-Code-Institute-Yoga-School.
+ + After the creation of the project, I rename it as : Savage-MMA-Gym.
 
  + In order to push this project from GitPod to Github I used a set of git commands on the terminal: 
   
@@ -328,7 +328,7 @@ Workshop.html :
 
 - Once you are in settings scroll down to "GitHub Pages"
 
-- Under "Source", click the dropdown called "None" and select "Master Branch".
+- Under "Source", click the dropdown called "None" and select "main Branch".
 
 - After the page automatically refresh scroll down again on "GitHub Pages" and I will  see live link to the published site.
 
