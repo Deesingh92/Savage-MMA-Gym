@@ -199,23 +199,7 @@ style.css
 ![Validator](assets/images/cssw3validator.png "CSS")
 
 
-### Lighthouse results:
 
-Index.html : 
-
-![lighthouse results](assets/images/readme.img/lighthouse.index,html.JPG "Home")
-
-Classes.html : 
-
-![lighthouse results](assets/images/readme.img/lighthouse.classes.JPG "Classes")
-
-About.html : 
-
-![lighthouse results](assets/images/readme.img/lighthouse.workshops.JPG "Workshops")
-
-Contact.html : 
-
-![lighthouse results](assets/images/readme.img/lighthouse.ahimsa.JPG "Ahimsa")
 
 ### Testing User Stories from User Experience (UX) Section
 
