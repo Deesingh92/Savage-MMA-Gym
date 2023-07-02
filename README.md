@@ -160,13 +160,13 @@ Here some images of the proccess( to see full wireframe click PDF) :
  Index.html :
 
 
--  Errors: ![Errors](assets/images/readme.img/index.error..JPG "Index-errors")
+-  Errors: ![Errors](assets/images/validator-index.png "Index-errors")
 
 
- Ahimsa.html :
+ classes.html :
 
 
--  Errors: ![Errors](assets/images/readme.img/ahimsa.error.JPG "Ahimsa-errors")
+-  Errors: ![Errors](assets/images/validator-classes.png "classes-errors")
 
 
 
