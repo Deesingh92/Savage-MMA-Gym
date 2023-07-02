@@ -175,28 +175,28 @@ Validators Results :
 
 Index.html 
 
-![Validator](assets/images/readme.img/indexhtmlValidator.JPG "Home")
+![Validator](assets/images/indexhtmlvalidator.png "Home")
 
 classes.html 
 
-![Validator](assets/images/readme.img/classes.htemlw3vaidator1.JPG "classes")
+![Validator](assets/images/abouthtmlvalidator.png "about")
 
 about.html 
 
-![Validator](assets/images/readme.img/workshopsw3validator.1.JPG "about")
+![Validator](assets/images/classeshtmlvalidator.png "classes")
 
 team.html 
 
-![Validator](assets/images/readme.img/Ahimsa.html-validator-7-11-21.JPG "Team")
+![Validator](assets/images/teamhtmlvalidator.png "Team")
 
 contact.html 
 
-![Validator](assets/images/readme.img/Ahimsa.html-validator-7-11-21.JPG "contact")
+![Validator](assets/images/contacthtmlvalidator.png "contact")
 
 
 style.css 
 
-![Validator](assets/images/readme.img/cssw3validator1.JPG "CSS")
+![Validator](assets/images/cssw3validator.png "CSS")
 
 
 ### Lighthouse results:
