@@ -12,6 +12,11 @@
 
 
 [view Website Link ] ( https://deesingh92.github.io/Savage-MMA-Gym/)
+
+
+![Mock-up](assets/images/mockup-devices.png "mockup savasge strike")
+
+
 ## Purpose Of the Website
 
 Made the gym more accessible to students giving them the possibility to see the live classes timetable, and get to know what the gym offers.
