@@ -11,7 +11,7 @@
 [View Repository in GitHub Pages] (https://github.com/Deesingh92/Savage-MMA-Gym)
 
 
-[view Website Link ] (https://github.com/Deesingh92/Savage-MMA-Gym)
+[view Website Link ] ( https://deesingh92.github.io/Savage-MMA-Gym/)
 ## Purpose Of the Website
 
 Made the gym more accessible to students giving them the possibility to see the live classes timetable, and get to know what the gym offers.
