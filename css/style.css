@@ -186,6 +186,7 @@ section.quote-card {
 .student-child {
     height: 300px;
     width: 300px;
+    object-fit: cover;
 }
   
   .card-student  {
@@ -284,6 +285,7 @@ section.quote-card {
     width: 300px;
     max-width: 100%;
     margin-bottom: 30px;
+    object-fit: cover;
 }
 
 
@@ -292,6 +294,7 @@ section.quote-card {
     width: 300px;
     max-width: 100%;
     margin-bottom: 30px;
+    object-fit: cover;
 }
 
 .freestyle-coach {
@@ -299,7 +302,7 @@ section.quote-card {
     width: 300px;
     max-width: 100%;
     margin-bottom: 30px;
-    
+    object-fit: cover;
 }
 
 .muaythai-coach {
@@ -307,7 +310,7 @@ section.quote-card {
     width: 300px;
     max-width: 100%;
     margin-bottom: 30px;
- 
+    object-fit: cover;
 }
 
 
